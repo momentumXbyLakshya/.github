@@ -30,3 +30,11 @@ Many individuals struggle with consistency when trying to adopt new habits or el
 ### Habit Tracking with Gamification
 
 - When a user completes a task for a habit, if it's a positive habit, the user is rewarded with points, if it's a negative habit, the user's health is reduced. Once, the points of the user reach 100, the level of the user is increased and the health is redeemed to 100.
+
+## Repositories
+
+The project is divided into two repositories:
+
+- <a href="https://github.com/momentumXbyLakshya/react-client">react-client</a>: Frontend of the web application written in React.js
+- <a href="https://github.com/momentumXbyLakshya/react-client">express-server</a>: Backend built using Express.js framework
+
