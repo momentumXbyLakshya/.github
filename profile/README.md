@@ -4,7 +4,7 @@ MomentumX is a gamified habit tracker that leverages Hanko's passkey authenticat
 
 ## Problem Statement
 
-Many individuals struggle with consistency when trying to adopt new habits or eliminate bad ones. HabitHero aims to address this challenge by providing a fun and engaging platform that encourages users to stay motivated, track their progress, and achieve their goals.
+Many individuals struggle with consistency when trying to adopt new habits or eliminate bad ones. MomentumX aims to address this challenge by providing a fun and engaging platform that encourages users to stay motivated, track their progress, and achieve their goals.
 
 ## Features
 
