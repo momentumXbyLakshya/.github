@@ -2,6 +2,8 @@
 
 MomentumX is a gamified habit tracker that leverages Hanko's passkey authentication for secure user login and registration. Users can create personalized habits, monitor their progress through health and experience points, and strive towards self-improvement.
 
+Deployed Link: https://react-client-sigma.vercel.app/
+
 ## Problem Statement
 
 Many individuals struggle with consistency when trying to adopt new habits or eliminate bad ones. MomentumX aims to address this challenge by providing a fun and engaging platform that encourages users to stay motivated, track their progress, and achieve their goals.
